@@ -44,7 +44,7 @@ Computer Engineering student focused on AI/ML and software engineering.
 Have a question, idea, or collaboration in mind? Send a message or reach out through my socials.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/warish-ali-885923363"><img height="28" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/warish-ali-885923363"><img height="28" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" /></a>
   <a href="https://x.com/myself_warish"><img height="28" src="https://cdn.simpleicons.org/x/8B949E" alt="X" /></a>
   <a href="mailto:warishali.contact@gmail.com"><img height="28" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" /></a>
 </p>
